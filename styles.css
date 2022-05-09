@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_logo {
+    flex: 1;
+}
+
+.links_list {
+    flex: 1;
+}
+
+.hero {
+    display: flex;
+    flex: 1;
+}
+
+.signup1 {
+    display: block;
+}
+
+.content {
+    flex: 1;
+    flex-direction: column;
+    
+}
+
+.information {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+}
+
+.subtext_images {
+    flex: 1;
+    display: flex;
+}
+
+figure {
+    flex: 1 1 auto;
+}
+
+.quote {
+    flex: 1;
+}
+
+.cta {
+    display: flex;
+    flex: 1;
+}
+
+img {
+    flex: 1;
+    width: 100%;
+}
