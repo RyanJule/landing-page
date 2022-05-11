@@ -40,7 +40,7 @@ a {
 
 .hero {
     display: flex;
-    flex: 1 0 auto;
+    flex: 1 1 auto;
     background-color: #1F2937;
     justify-content: space-evenly;
     padding: 64px;
